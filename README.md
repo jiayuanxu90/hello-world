@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-Just for tring
+Hi Humans!
+
+Hubot here, I like Node.js and conffeescipt (That is what I am made of!).
+I have had tacos on the moon and find them far superior to Earth tacos.
